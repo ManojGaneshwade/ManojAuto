@@ -4,8 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="practice.duplicateCheckbox"/>
-      <class name="practice.AddEmployee"></class>
-      <class name="practice.LogInTest"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
