@@ -5,6 +5,7 @@
     <classes>
       <class name="practice.duplicateCheckbox"/>
       <class name="practice.AddEmployee"></class>
+      <class name="practice.LogInTest"></class>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

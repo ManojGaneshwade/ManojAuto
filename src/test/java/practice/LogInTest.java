@@ -48,6 +48,8 @@ public class LogInTest {
 		String currentURL=driver.getCurrentUrl();
 		String expect="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login";
 		Assert.assertEquals(expect, currentURL);
+		
+		driver.close();
 	}
 
 }
